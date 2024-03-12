@@ -1,4 +1,4 @@
-module github.com/bakito/adguardhome-sync
+module github.com/vrtareg/adguardhome-sync
 
 go 1.21
 
