@@ -1,6 +1,6 @@
 package main
 
-import "github.com/bakito/adguardhome-sync/cmd"
+import "github.com/vrtareg/adguardhome-sync/cmd"
 
 func main() {
 	cmd.Execute()
